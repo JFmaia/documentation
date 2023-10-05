@@ -12,5 +12,9 @@
 > - Problemas que podem ocorrer.
 > - Próximo passos no seu projetos/ideias.
 
-## Obs:
+### Obs:
 > ***Se você tem duvida sobre algo, porque não fazer um resumo com sua linguagem de explicar e montar o passo a passo, pois assim em outro momento vai ser um acesso rapido e fácil de lembrar!***
+
+## Dicas/Ferramentas:
+
+- Mermaid para diagramas
